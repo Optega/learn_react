@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  width: 800px;
+}
+
+.post {
+  display: flex;
+  padding: 15px;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-bar {
+  width: 100%;
+}
+
+a {
+  text-decoration: inherit;
+  padding-right: 10px;
+  color: inherit;
+}
