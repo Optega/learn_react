@@ -1,3 +1,7 @@
+# My first React app
+
+Learned React with a video - ["React JS фундаментальный курс от А до Я"](https://youtu.be/GNrdg3PzpJQ)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
